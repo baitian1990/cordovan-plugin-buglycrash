@@ -1,0 +1,28 @@
+{
+  "name": "cordovan-plugin-buglycrash",
+  "version": "1.0.0",
+  "description": "buglyupdate",
+  "main": "index.js",
+  "cordova": {
+     "id": "com-yuntian-buglycrash",
+     "platforms": [
+       "android"
+     ]
+  },
+  "scripts": {
+    "test": "---test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baitian1990/cordovan-plugin-buglycrash.git"
+  },
+  "keywords": [
+    "update"
+  ],
+  "author": "admin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baitian1990/cordovan-plugin-buglycrash/issues"
+  },
+  "homepage": "https://github.com/baitian1990/cordovan-plugin-buglycrash#readme"
+}
